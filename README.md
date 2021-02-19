@@ -5,7 +5,7 @@ Apart of **Chat & Share**, building bots, services, and communities.
  - Music enthusiast; Hip hop, Pop, R&B, Latin pop, Korean pop. 🎵
  - Bad designer; Experience with a couple of Adobe creative products. 🎨
  
-Bengali from 💖 Michigan, USA
+💖 Michigan, USA
 
 <br>
 
