@@ -1,7 +1,7 @@
 ### I'm Haste 👋
 Apart of **Chat & Share**, building bots, services, and communities.
 
- - Bored developer; Mainly Javascript & Golang, and bits of Python & Java. 💻
+ - Bored developer; Mainly Javascript & Golang, and bits of Python. 💻
  - Music enthusiast; Hip hop, Pop, R&B, Latin pop, Korean pop. 🎵
  - Bad designer; Experience with a couple of Adobe creative products. 🎨
  
