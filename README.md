@@ -2,7 +2,7 @@
 fullstack developer - hobbyist designer - avid music listener <br> 
 <br>
 
-#### my primary tech stacks:
+#### my primary languages
  -  Go
  -  JavaScript
 <br>
