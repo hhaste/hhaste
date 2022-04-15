@@ -1,5 +1,12 @@
-### hello, i'm haste 🎪
-developer, designer, and avid music listener <br>
+# hello, i'm haste 🎪
+fullstack developer - hobbyist designer - avid music listener <br> 
+<br>
 
-Music profile: https://www.last.fm/user/hhaste <br>
-Current project: https://discord.gg/dismegle
+#### my primary tech stacks:
+ -  Go
+ -  JavaScript
+<br>
+
+#### contact me through Discord / @haste#3701 <br>
+⤷　music profile: https://last.fm/user/hhaste <br>
+⤷　current project: https://discord.gg/dismegle
