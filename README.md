@@ -1,5 +1,5 @@
-### I'm Haste 👋
-Designer, bored developer, and passionate music enthusiast <br>
-Apart of **Chat & Share**, building services and communities
- 
-💖 Michigan, USA
+### hello, i'm haste
+developer, designer, and avid music listener <br>
+
+https://www.last.fm/user/hhaste
+https://discord.gg/dismegle
