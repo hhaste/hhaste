@@ -1,5 +1,5 @@
-### hello, i'm haste
+### hello, i'm haste 🎪
 developer, designer, and avid music listener <br>
 
-https://www.last.fm/user/hhaste
-https://discord.gg/dismegle
+Music profile: https://www.last.fm/user/hhaste <br>
+Current project: https://discord.gg/dismegle
