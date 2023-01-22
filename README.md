@@ -2,9 +2,11 @@
 fullstack developer - hobbyist designer - avid music listener <br> 
 <br>
 
-#### my primary languages
- -  Go
- -  JavaScript
+#### my primary stacks
+ -  Go & JavaScript
+ -  Figma & Photoshop
+ -  MongoDB & Redis
+ -  React & Next.JS
 <br>
 
 #### contact me through Discord / @haste#3701 <br>
