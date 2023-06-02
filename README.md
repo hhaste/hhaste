@@ -2,7 +2,7 @@
 fullstack developer - hobbyist designer - avid music listener <br> 
 <br>
 
-#### my go-to stacks
+#### my go-to list
  -  Go & JavaScript
  -  Figma & Photoshop
  -  MongoDB & Redis
