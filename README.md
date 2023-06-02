@@ -9,7 +9,7 @@ fullstack developer - hobbyist designer - avid music listener <br>
  -  React & Next.JS
 <br>
 
-#### contact me through Discord / @haste#3701 <br>
+#### quick links
 ⤷　music profile: https://last.fm/user/hhaste <br>
-⤷　current project: https://dismegle.com,  https://greenclick.app
+⤷　dismegle: https://dismegle.com,  https://greenclick.app
 
