@@ -9,10 +9,10 @@ fullstack developer - hobbyist designer - avid music listener <br>
  -  React & Next.JS
 
 #### my current projects...
-- https://dismegle.com
-- https://greenclick.app
-- https://woof.rocks
-- https://outgone.app
+- https://greenclick.app Startup
+- https://outgone.app Startup
+- https://dismegle.com Discord bot
+- https://woof.rocks Discord bot 
 
 #### my music profile...
 - https://last.fm/user/hhaste
