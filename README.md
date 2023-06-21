@@ -3,10 +3,7 @@ fullstack developer - hobbyist designer - avid music listener <br>
 <br>
 
 #### i love working with....
- -  Go & JavaScript
- -  Figma & Photoshop
- -  MongoDB & Redis
- -  React & Next.JS
+[![My Skills](https://skillicons.dev/icons?i=js,go,react,mongodb,redis,figma,ps,raspberrypi)](https://skillicons.dev)
 
 #### my current projects...
 - https://outgone.app Startup
