@@ -2,7 +2,7 @@
 fullstack developer - hobbyist designer - avid music listener <br> 
 <br>
 #### i love working with....
-[![My Skills](https://skillicons.dev/icons?i=js,go,react,mongodb,redis,figma,ps,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,go,react,mongodb,redis,figma,ps,raspberrypi,linux&perline=3)](https://skillicons.dev)
 
 #### my current projects...
 - https://outgone.app Startup
