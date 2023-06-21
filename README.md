@@ -9,8 +9,8 @@ fullstack developer - hobbyist designer - avid music listener <br>
  -  React & Next.JS
 
 #### my current projects...
-- https://greenclick.app Startup
 - https://outgone.app Startup
+- https://greenclick.app Startup
 - https://dismegle.com Discord bot
 - https://woof.rocks Discord bot 
 
