@@ -1,7 +1,6 @@
 # hello, i'm haste 🎪
 fullstack developer - hobbyist designer - avid music listener <br> 
 <br>
-
 #### i love working with....
 [![My Skills](https://skillicons.dev/icons?i=js,go,react,mongodb,redis,figma,ps,raspberrypi)](https://skillicons.dev)
 
