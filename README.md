@@ -11,5 +11,6 @@ fullstack developer - hobbyist designer - avid music listener <br>
 - https://woof.rocks Discord bot 
 
 #### my music profile...
-- https://last.fm/user/hhaste
-- https://open.spotify.com/user/cgxoru2kbl8fndf0mdzgamn9q
+https://open.spotify.com/user/cgxoru2kbl8fndf0mdzgamn9q
+
+![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hhaste&loved=true)
