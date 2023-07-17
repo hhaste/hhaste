@@ -9,6 +9,3 @@ Full stack developer - Hobbyist designer - Avid music listener <br>
 - Created https://dismegle.com (💬 Discord Community)
 - Created https://woof.rocks (🤖 Discord Bot)
 - Interned at https://greenclick.app (🚗 Car Rentals)
-
-#### My music profile...
-![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=hhaste&loved=true)
