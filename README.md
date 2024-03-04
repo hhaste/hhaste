@@ -6,7 +6,7 @@ Full stack developer - Hobbyist designer - Avid music listener <br>
 <br>
 <br>
 #### Some of my projects...
-- Created https://outgone.app (📱 Mobile App)
-- Created https://dismegle.com (💬 Chat Service)
-- Created https://woof.rocks (🤖 Discord Bot)
-- Interned at https://greenclick.app (🚗 Car Rentals)
+- https://outgone.app (📱 Mobile App)
+- https://dismegle.com (💬 Chat Service)
+- https://woof.rocks (🤖 Discord Bot)
+- https://greenclick.app (🚗 Car Rentals)
