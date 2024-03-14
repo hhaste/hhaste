@@ -1,4 +1,4 @@
-# Hey there, I'm haste 🎪
+# Hey there, I'm haste 👋
 Full stack developer - Hobbyist designer - Avid music listener <br> 
 <br>
 #### I love working with...
