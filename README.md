@@ -1,5 +1,5 @@
 # Hey there, welcome to my profile 👋
-Full stack developer - Hobbyist designer - Avid music listener <br> 
+Full stack developer, hobbyist designer, & avid music listener <br> 
 <br>
 #### I love working with...
 [![My Skills](https://skillicons.dev/icons?i=go,js,react,nextjs,mongodb,redis,postgres,git,cloudflare,vercel,aws,nodejs,html,css,tailwind,figma,ps,raspberrypi,linux,ubuntu&perline=10)](https://skillicons.dev)
