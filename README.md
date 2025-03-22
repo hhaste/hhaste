@@ -6,7 +6,8 @@ Full stack developer & UI/UX designer <br>
 <br>
 <br>
 #### Some of my projects...
-- https://outgone.app (📱 Mobile app)
+- https://3by3.me (🌐 Website)
 - https://dismegle.com (💬 Chat service)
+- https://outgone.app (📱 Mobile app)
 - https://woof.rocks (🤖 Discord bot)
-- https://greenclick.app (🚗 Car rentals)
+- https://carclick.app (🚗 Car rentals)
