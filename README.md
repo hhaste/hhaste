@@ -1,4 +1,4 @@
-# Hey there, welcome to my profile 👋
+# Hi there 👋
 Full stack developer / UI/UX designer / Student pilot <br> 
 <br>
 #### I love working with...
